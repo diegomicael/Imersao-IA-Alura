@@ -1,2 +1,2 @@
-# Imers-o-IA-Alura
+# Imersao-IA-Alura
 Projeto Imersão IA
