@@ -1,3 +1,5 @@
+Projeto de Chatbot "Fala PC": Atendimento Virtual via WhatsApp
+
 INTRODUÇÃO
 
 Este projeto visa desenvolver um Chatbot para auxiliar no atendimento aos usuários das Delegacias de Comarca da Polícia Civil de Minas Gerais, com foco principal nas unidades do Interior do Estado. O objetivo principal da ferramenta é otimizar e agilizar o acesso aos serviços administrativos, liberando os policiais para se concentrarem nas demandas que exigem atendimento presencial. O chatbot não substitui o atendimento presencial, mas sim o complementa, fornecendo informações e serviços de forma rápida e eficiente.
