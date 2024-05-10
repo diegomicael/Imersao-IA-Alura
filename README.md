@@ -2,7 +2,6 @@
 
 
 
-
 ### *INTRODUÇÃO*
 
 Este projeto visa desenvolver um Chatbot para auxiliar no atendimento aos usuários das Delegacias de Comarca da Polícia Civil de Minas Gerais, com foco principal nas unidades do Interior do Estado. O objetivo principal da ferramenta é otimizar e agilizar o acesso aos serviços administrativos, liberando os policiais para se concentrarem nas demandas que exigem atendimento presencial. O chatbot não substitui o atendimento presencial, mas sim o complementa, fornecendo informações e serviços de forma rápida e eficiente.
@@ -42,9 +41,13 @@ O chatbot oferecerá uma gama de funcionalidades para atender às necessidades d
 A implementação do chatbot trará diversos benefícios para a Polícia Civil de Minas Gerais e para os cidadãos, como:
 
 •	Redução do tempo de espera: Os usuários poderão resolver seus problemas de forma rápida e eficiente, sem precisar se deslocar até as delegacias.
+
 •	Descongestionamento das delegacias: A diminuição do fluxo de pessoas nas delegacias permitirá que os policiais se concentrem nas demandas que exigem atendimento presencial, otimizando o tempo e os recursos da instituição.
+
 •	Melhoria na qualidade do atendimento: O chatbot oferecerá um atendimento personalizado e humanizado, com respostas precisas e atualizadas.
+
 •	Aumento da acessibilidade: O chatbot estará disponível 24 horas por dia, 7 dias por semana, permitindo que os usuários acessem os serviços da Polícia Civil a qualquer momento e de qualquer lugar.
+
 •	Maior satisfação dos usuários: O atendimento rápido, eficiente e personalizado proporcionará uma melhor experiência para os usuários, aumentando a satisfação com os serviços da Polícia Civil.
 
 
