@@ -53,7 +53,6 @@ A implementação do chatbot trará diversos benefícios para a Polícia Civil d
 
 A fase experimental do projeto esta sendo realizada na 9ª Delegacia de Polícia Civil de Abaeté, onde os serviços do chatbot estão sendo testados e aprimorados. Atualmente, um beta da ferramenta está em uso através do WhatsApp da unidade policial, permitindo que a população de Abaeté acesse os serviços da Polícia Civil de forma mais rápida e eficiente.
 
-<img src="/Interação.jpeg">
 
 ### *IMPLANTAÇÃO*
 
