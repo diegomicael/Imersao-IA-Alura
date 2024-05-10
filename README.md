@@ -1,4 +1,4 @@
-Projeto de Chatbot "Fala PC": Atendimento Virtual via WhatsApp
+CONECTA PCMG
 
 INTRODUÇÃO
 
