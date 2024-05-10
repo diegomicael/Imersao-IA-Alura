@@ -1,12 +1,12 @@
 # **CONECTA PCMG**
 
-# **INTRODUÇÃO**
+# *INTRODUÇÃO*
 
 Este projeto visa desenvolver um Chatbot para auxiliar no atendimento aos usuários das Delegacias de Comarca da Polícia Civil de Minas Gerais, com foco principal nas unidades do Interior do Estado. O objetivo principal da ferramenta é otimizar e agilizar o acesso aos serviços administrativos, liberando os policiais para se concentrarem nas demandas que exigem atendimento presencial. O chatbot não substitui o atendimento presencial, mas sim o complementa, fornecendo informações e serviços de forma rápida e eficiente.
 
 O desenvolvimento do chatbot está sendo realizado pelo Investigador de Polícia Diego Micael, lotado na 9ª Delegacia de Polícia da Comarca de Abaeté, o qual, após um período de chuvas que levou a uma interrupção na rede de telefonia externa da unidade, teve a iniciativa de levar a sua comunidade um novo canal de contato através do WhatsApp, mas que diante do volume teve a iniciativa de estudar ferramentas para otimizar e agilizar o acesso da população aos serviços administrativos, liberando os policiais para se concentrarem nas demandas que exigem atendimento presencial.
 
-# **FUNCIONALIDADES**
+# *FUNCIONALIDADES*
 
 O chatbot oferecerá uma gama de funcionalidades para atender às necessidades dos usuários, como:
 
@@ -30,7 +30,7 @@ O chatbot oferecerá uma gama de funcionalidades para atender às necessidades d
 
 •	Encaminhar Arquivos: Envio de documentos e arquivos para as delegacias, como fotos, vídeos e comprovantes para inclusão em procedimentos.
 
-# **BENEFÍCIOS**
+# *BENEFÍCIOS*
 
 A implementação do chatbot trará diversos benefícios para a Polícia Civil de Minas Gerais e para os cidadãos, como:
 
@@ -40,18 +40,18 @@ A implementação do chatbot trará diversos benefícios para a Polícia Civil d
 •	Aumento da acessibilidade: O chatbot estará disponível 24 horas por dia, 7 dias por semana, permitindo que os usuários acessem os serviços da Polícia Civil a qualquer momento e de qualquer lugar.
 •	Maior satisfação dos usuários: O atendimento rápido, eficiente e personalizado proporcionará uma melhor experiência para os usuários, aumentando a satisfação com os serviços da Polícia Civil.
 
-# **FASE EXPERIMENTAL E BETA**
+# *FASE EXPERIMENTAL E BETA*
 
 A fase experimental do projeto esta sendo realizada na 9ª Delegacia de Polícia Civil de Abaeté, onde os serviços do chatbot estão sendo testados e aprimorados. Atualmente, um beta da ferramenta está em uso através do WhatsApp da unidade policial, permitindo que a população de Abaeté acesse os serviços da Polícia Civil de forma mais rápida e eficiente.
 
-# **IMPLANTAÇÃO**
+# *IMPLANTAÇÃO*
 
 Se bem sucedido, e com autorização das autoridades competentes, o projeto poderá ser difundido nas demais Delegacias do estado, expandindo seus benefícios para toda a população mineira, com acompanhamento e avaliação constante para garantir a qualidade do serviço prestado.
 
-# **CONSIDERAÇÕES FINAIS**
+# *CONSIDERAÇÕES FINAIS*
 
 O chatbot para Delegacias de Comarca da Polícia Civil de Minas Gerais é uma iniciativa inovadora que tem o potencial de transformar a forma como os serviços da instituição são prestados aos cidadãos. A ferramenta contribuirá para a modernização da Polícia Civil, otimizando o atendimento, aumentando a acessibilidade e garantindo maior satisfação dos usuários.
 
-FEEDBACK
+# *FEEDBACK*
 
 Caso queira testar a funcionalidade, basta encaminhar sua messagem para o WhatsApp (37)3541-1489, simule um atendimento qualquer e ao final encaminhe a palavra "TESTE" para que a interação senha arquivada e analisa. Se possivel encaminhe seu feedback, toda sugestão, critica e elogio é bem vinda.
