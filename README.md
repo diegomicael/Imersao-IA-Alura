@@ -2,6 +2,8 @@ INTRODUÇÃO
 
 Este projeto visa desenvolver um Chatbot para auxiliar no atendimento aos usuários das Delegacias de Comarca da Polícia Civil de Minas Gerais, com foco principal nas unidades do Interior do Estado. O objetivo principal da ferramenta é otimizar e agilizar o acesso aos serviços administrativos, liberando os policiais para se concentrarem nas demandas que exigem atendimento presencial. O chatbot não substitui o atendimento presencial, mas sim o complementa, fornecendo informações e serviços de forma rápida e eficiente.
 
+O desenvolvimento do chatbot está sendo realizado pelo Investigador de Polícia Diego Micael, lotado na 9ª Delegacia de Polícia da Comarca de Abaeté, o qual, após um período de chuvas que levou a uma interrupção na rede de telefonia externa da unidade, teve a iniciativa de levar a sua comunidade um novo canal de contato através do WhatsApp, mas que diante do volume teve a iniciativa de estudar ferramentas para otimizar e agilizar o acesso da população aos serviços administrativos, liberando os policiais para se concentrarem nas demandas que exigem atendimento presencial.
+
 FUNCIONALIDADES
 
 O chatbot oferecerá uma gama de funcionalidades para atender às necessidades dos usuários, como:
@@ -42,12 +44,12 @@ A fase experimental do projeto esta sendo realizada na 9ª Delegacia de Polícia
 
 IMPLANTAÇÃO
 
-Sem bem sucedido, e com autorização das autoridades competentes, o projeto poderá ser difundido nas demais Delegacias do estado, expandindo seus benefícios para toda a população mineira, com acompanhamento e avaliação constante para garantir a qualidade do serviço prestado.
+Se bem sucedido, e com autorização das autoridades competentes, o projeto poderá ser difundido nas demais Delegacias do estado, expandindo seus benefícios para toda a população mineira, com acompanhamento e avaliação constante para garantir a qualidade do serviço prestado.
 
 CONSIDERAÇÕES FINAIS
 
 O chatbot para Delegacias de Comarca da Polícia Civil de Minas Gerais é uma iniciativa inovadora que tem o potencial de transformar a forma como os serviços da instituição são prestados aos cidadãos. A ferramenta contribuirá para a modernização da Polícia Civil, otimizando o atendimento, aumentando a acessibilidade e garantindo maior satisfação dos usuários.
 
-DESENVOLVIMENTO
+FEEDBACK
 
-O desenvolvimento do chatbot está sendo realizado pelo Investigador de Polícia Diego Micael, lotado na 9ª Delegacia de Polícia da Comarca de Abaeté, o qual, após um período de chuvas que levou a uma interrupção na rede de telefonia externa da unidade, teve a iniciativa de levar a sua comunidade um novo canal de contato através do WhatsApp, mas que diante do volume teve a iniciativa de estudar ferramentas para otimizar e agilizar o acesso da população aos serviços administrativos, liberando os policiais para se concentrarem nas demandas que exigem atendimento presencial.
+Caso queira testar a funcionalidade, basta encaminhar sua messagem para o WhatsApp (37)3541-1489, simule um atendimento qualquer e ao final encaminhe a palavra "TESTE" para que a interação senha arquivada e analisa. Se possivel encaminhe seu feedback, toda sugestão, critica e elogio é bem vinda.
